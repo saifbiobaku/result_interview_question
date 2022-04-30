@@ -1,0 +1,14 @@
+<data>
+    <customer name="Susan">
+        <ticket_number>1</ticket_number>
+        <year>2022</year>
+        <depart update="yes">20220430202007</depart>
+        <return update="yes">20220530182007</return>
+    </customer>
+    <customer name="Pamela">
+        <ticket_number>2</ticket_number>
+        <year>2022</year>
+        <depart update="yes">20220430202007</depart>
+        <return update="yes">20220530182007</return>
+    </customer>
+</data>
